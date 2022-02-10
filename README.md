@@ -8,27 +8,40 @@
 
  - 刘巩/男/1991
  - 本科/扬州大学
- - 工作年限：6年
+ - 工作年限：8年
  - Github：https://github.com/liugong7833/resume
 
  - 期望职位：JAVA工程师、后端工程师
- - 期望薪资：package 42w 
+ - 期望薪资：package 60w 
  - 期望城市：上海
 
 
 # 技能清单
 
+- 熟悉java语法、多线程、集合等基础框架
+- 对jvm有初步了解，包括内存模型，垃圾回收机制
+- 了解常⽤缓存，如redis，了解其机制和业务场景
+- 掌握主流MQ产品，知道其原理，并在应⽤中做业务解耦、削峰填⾕
+- 常⽤的⽹络协议：Tcp/Ip、Http、Https、Arp、Dns
 - JAVA框架：Spring/SpringBoot/Mybatis
 - WEB容器：Tomcat/Jetty
-- 前端框架：Bootstrap/AngularJS
+- 前端框架：Bootstrap/jQuery
 - 数据库相关：MySQL/Oracle/Redis/Hbase/Kyligence/Hive/Elasticsearch
 - 版本管理、自动化部署工具：Git/Jenkins
 - 项目管理：Maven/Gradle
 - 单元测试：Junit
-- 其它：Nginx/Docker/Kubernetes
+- 其它：Nginx/Docker/Kubernetes/golang/scala/python/shell
 
 
 # 工作经历
+
+## 深圳平安综合金融服务有限公司 （ 2020年5月 ~ 至今 ）
+
+### 平安银行信用卡权益平台
+信用卡权益作为信用卡获客的手段和客户经营的工具，为平安各种信用卡产品提供差异化和多样化权益功能。
+负责卡权分离平台搭建：使信用卡权益除了绑定到卡，也支持客户维度使用，从而更灵活的向行内其它业务系统以及平安集团输出权益功能。
+负责权益平台整体重构：银行的业务多采用定时任务形式进行批处理，权益平台运行至今定时任务数量突破 500，使代码维护和上下游依赖管理复杂度提升。将权益平台功能划分为：达标、派发、使用、权益绑定、权益订购、触达等多个领域，每个领域使用mq串联起来，做好监控和重试，使业务领域和边界更为清晰，赋能权益开发团队。
+
 
 ## 上海享物说网络科技有限公司 （ 2018年7月 ~ 2020年1月 ）
 
