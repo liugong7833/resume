@@ -12,7 +12,6 @@
  - Github：https://github.com/liugong7833/resume
 
  - 期望职位：JAVA工程师、后端工程师
- - 期望薪资：package 60w 
  - 期望城市：上海
 
 
