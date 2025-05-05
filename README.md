@@ -8,7 +8,7 @@
 
  - 刘巩/男/1991
  - 本科/扬州大学
- - 工作年限：8年
+ - 工作年限：10年
  - Github：https://github.com/liugong7833/resume
 
  - 期望职位：JAVA工程师、后端工程师
